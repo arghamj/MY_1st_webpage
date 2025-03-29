@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(156, 219, 242)
+}    
+h1{
+    color: #1e197f; 
+    background-color: rgb(73, 157, 235)
+    
+}
+h2{color: rgb(9, 1, 48);
+
+}
+h3{
+    color: rgb(21, 6, 118);
+}
+
+
+body.page2.html {
+    background-color: #18136e;
+}
+body.page3.html{
+    background-color: rgb(194, 203, 28);
+}
