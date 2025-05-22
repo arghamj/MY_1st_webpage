@@ -1,7 +1,5 @@
-alert ("You are totally SAFE & SECURE");
+alert ("Are You Sure To Entering This WEB PAGE! ");
 
-<button 
-onclick="window.open('page2.html')">Click on me</button>
  
 
 
